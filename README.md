@@ -14,16 +14,19 @@ Sensoro Beacon Kit 使用指南（Android）
 
 在 AndroidManifest.xml 文件加入 SBK 的依赖权限
 
-><manifest
+```
+<manifest
     ...
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     ...
 </manifest>
+```
 
 在 AndroidManifest.xml 文件加入 SBK 依赖的服务
 
-><manifest
+```
+<manifest
     ...
     <application
         ...
@@ -33,6 +36,7 @@ Sensoro Beacon Kit 使用指南（Android）
     </application>
     ...
 </manifest>
+```
 
 您可以从以下地址手动下载最新版本的 Android SDK：
 
