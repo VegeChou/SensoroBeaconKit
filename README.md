@@ -146,4 +146,4 @@ beaconConnection.connect();
 ```
 ####配置 Beacon
 
-连接 Beacon 成功后,使用 SensoroBeaconConnection 实例对 Beacon 进行配置,具体的配置请参考 [doc](https://raw.githubusercontent.com/VegeChou/SensoroBeaconKit/master/javadoc/index.html) 说明文档 SensoroBeaconConnection 类说明。
+连接 Beacon 成功后,使用 SensoroBeaconConnection 实例对 Beacon 进行配置,具体的配置请参考 [doc](http://vegechou.github.io/javadoc/index.html) 说明文档 SensoroBeaconConnection 类说明。
